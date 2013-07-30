@@ -7,3 +7,8 @@ echo '234';
 echo '123';
 echo '234';
 ?>
+echo 'haha';
+?>
+echo 'baba';
+echo 'haha';
+?>
